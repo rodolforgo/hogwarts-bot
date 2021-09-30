@@ -1,0 +1,6 @@
+Cachorro
+Gato
+Cervo
+Coruja
+Águia
+Raposa
