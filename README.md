@@ -1,7 +1,7 @@
 ### Hogwarts Bot
 
 Sistema de RPG baseado na série Harry Potter. Possui chapéu seletor, beco diagonal, duelos, copa das casas, corujal, etc.
-Foi criado em 2010 no canal #Hogwarts por Matheus Froz e José Rodolfo.
+Foi criado em 2010 por Matheus Froz e José Rodolfo. 
 
 Imagem:
 
