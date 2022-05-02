@@ -1,8 +1,12 @@
 ### Hogwarts Bot
 
 · Sistema de RPG baseado na série Harry Potter desenvolvido em mIRC Script.
+
 · Possui funcionalidades que simulam os principais ambientes da série: chapéu seletor, beco diagonal, duelos, copa das casas, corujal, etc.
+
 · Foi criado em 2010 por Matheus Froz e José Rodolfo. 
+
+---
 
 ### Imagem
 
